@@ -42,7 +42,7 @@ conda activate yolov8
 
 ### 克隆仓库
 ```bash
-git clone https://github.com/JackDance/YOLOv8-streamlit-app
+git clone https://github.com/escapemoon/YOLOv8-Fire-Check
 cd YOLOv8-streamlit-app
 ```
 

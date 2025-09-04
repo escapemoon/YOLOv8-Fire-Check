@@ -41,7 +41,7 @@ conda activate yolov8
 ```
 ### Clone repository
 ```commandline
-git clone https://github.com/JackDance/YOLOv8-streamlit-app
+git clone https://github.com/escapemoon/YOLOv8-Fire-Check
 ```
 
 ### Install packages
